@@ -2,55 +2,9 @@
 {
     "files": [
     {
-        "projectID": 64578,
-        "fileID": 2708308,
-        "name": "ender-io"
-    },
-    {
-        "projectID": 306122,
-        "fileID": 2712469,
-        "name": "wireless-utilities",
-        "required": true
-    },
-    {
-        "projectID": 271384,
-        "fileID": 2715784,
-        "name": "cofh-world",
-        "required": true
-    },
-    {
-        "projectID": 246974,
-        "fileID": 2659598,
-        "name": "solar-flux-reborn"
-    },
-    {
-        "projectID": 59816,
-        "fileID": 2697894,
-        "name": "random-things"
-    },
-    {
-        "projectID": 60089,
-        "fileID": 2671937,
-        "name": "mouse-tweaks",
-        "required": true
-    },
-    {
-        "projectID": 230976,
-        "fileID": 2463272,
-        "name": "fast-leaf-decay",
-        "required": true
-    },
-    {
-        "projectID": 254241,
-        "fileID": 2656683,
-        "name": "mob-grinding-utils",
-        "required": true
-    },
-    {
-        "projectID": 233071,
-        "fileID": 2562139,
-        "name": "crafting-tweaks",
-        "required": true
+        "projectID": 285385,
+        "fileID": 2634368,
+        "name": "oc-xnet-driver"
     },
     {
         "projectID": 258426,
@@ -58,243 +12,34 @@
         "name": "forge-multipart-cbe"
     },
     {
-        "projectID": 260824,
-        "fileID": 2622045,
-        "name": "wireless-redstone-cbe"
+        "projectID": 290209,
+        "fileID": 2704404,
+        "name": "rftools-power"
     },
     {
-        "projectID": 225605,
-        "fileID": 2489549,
-        "name": "lunatriuscore",
-        "required": true
+        "projectID": 239197,
+        "fileID": 2724129,
+        "name": "crafttweaker"
     },
     {
-        "projectID": 238222,
-        "fileID": 2728940,
-        "name": "jei"
-    },
-    {
-        "projectID": 267602,
-        "fileID": 2642375,
-        "name": "ctm",
-        "required": true
-    },
-    {
-        "projectID": 250957,
-        "fileID": 2630860,
-        "name": "tinkers-tool-leveling",
-        "required": true
-    },
-    {
-        "projectID": 225643,
-        "fileID": 2698039,
-        "name": "botania",
-        "required": true
-    },
-    {
-        "projectID": 251786,
-        "fileID": 2545468,
-        "name": "more-chickens"
-    },
-    {
-        "projectID": 223565,
-        "fileID": 2710583,
-        "name": "draconic-evolution"
-    },
-    {
-        "projectID": 236307,
-        "fileID": 2718584,
-        "name": "integrated-dynamics"
-    },
-    {
-        "projectID": 242195,
-        "fileID": 2723622,
-        "name": "dark-utilities"
-    },
-    {
-        "projectID": 229218,
-        "fileID": 2653854,
-        "name": "extracells2",
-        "required": true
-    },
-    {
-        "projectID": 74924,
-        "fileID": 2713386,
-        "name": "mantle",
-        "required": true
-    },
-    {
-        "projectID": 70496,
-        "fileID": 2518031,
-        "name": "bdlib",
-        "required": true
-    },
-    {
-        "projectID": 241941,
-        "fileID": 2545467,
-        "name": "chickens"
-    },
-    {
-        "projectID": 223008,
-        "fileID": 2670112,
-        "name": "opencomputers",
-        "required": true
-    },
-    {
-        "projectID": 291493,
-        "fileID": 2718784,
-        "name": "portality",
-        "required": true
-    },
-    {
-        "projectID": 228525,
-        "fileID": 2727800,
-        "name": "bookshelf",
-        "required": true
-    },
-    {
-        "projectID": 260912,
-        "fileID": 2705817,
-        "name": "xnet"
-    },
-    {
-        "projectID": 278993,
-        "fileID": 2719654,
-        "name": "bonsai-trees",
-        "required": true
-    },
-    {
-        "projectID": 227049,
-        "fileID": 2564573,
-        "name": "iron-backpacks",
-        "required": true
-    },
-    {
-        "projectID": 229046,
-        "fileID": 2572426,
-        "name": "project-red-lighting"
-    },
-    {
-        "projectID": 245174,
-        "fileID": 2594243,
-        "name": "ender-storage-1-8"
-    },
-    {
-        "projectID": 295910,
-        "fileID": 2714100,
-        "name": "integrated-terminals"
-    },
-    {
-        "projectID": 229049,
-        "fileID": 2572421,
-        "name": "project-red-world"
-    },
-    {
-        "projectID": 292785,
-        "fileID": 2639533,
-        "name": "vanillafix",
-        "required": true
-    },
-    {
-        "projectID": 228816,
-        "fileID": 2699056,
-        "name": "openblocks",
-        "required": true
+        "projectID": 245287,
+        "fileID": 2658176,
+        "name": "morph-o-tool"
     },
     {
         "projectID": 250850,
         "fileID": 2721018,
-        "name": "tiny-progressions",
-        "required": true
+        "name": "tiny-progressions"
     },
     {
-        "projectID": 228027,
-        "fileID": 2574880,
-        "name": "bibliocraft",
-        "required": true
+        "projectID": 278494,
+        "fileID": 2695388,
+        "name": "foamfix-for-minecraft"
     },
     {
-        "projectID": 272671,
-        "fileID": 2727094,
-        "name": "tinkers-complement",
-        "required": true
-    },
-    {
-        "projectID": 266479,
-        "fileID": 2689266,
-        "name": "capabilityproxy",
-        "required": true
-    },
-    {
-        "projectID": 222880,
-        "fileID": 2715788,
-        "name": "thermal-foundation",
-        "required": true
-    },
-    {
-        "projectID": 235595,
-        "fileID": 2705633,
-        "name": "not-enough-wands",
-        "required": true
-    },
-    {
-        "projectID": 291737,
-        "fileID": 2715787,
-        "name": "thermal-innovation",
-        "required": true
-    },
-    {
-        "projectID": 313298,
-        "fileID": 2713640,
-        "name": "thermallogistics"
-    },
-    {
-        "projectID": 247007,
-        "fileID": 2716477,
-        "name": "common-capabilities"
-    },
-    {
-        "projectID": 251389,
-        "fileID": 2718592,
-        "name": "integrated-tunnels"
-    },
-    {
-        "projectID": 237167,
-        "fileID": 2730032,
-        "name": "ftblib"
-    },
-    {
-        "projectID": 223094,
-        "fileID": 2670367,
-        "name": "inventory-tweaks"
-    },
-    {
-        "projectID": 270789,
-        "fileID": 2623090,
-        "name": "redstone-flux",
-        "required": true
-    },
-    {
-        "projectID": 229876,
-        "fileID": 2483393,
-        "name": "betterfps",
-        "required": true
-    },
-    {
-        "projectID": 221857,
-        "fileID": 2717443,
-        "name": "pams-harvestcraft"
-    },
-    {
-        "projectID": 225561,
-        "fileID": 2678374,
-        "name": "extra-utilities",
-        "required": true
-    },
-    {
-        "projectID": 32274,
-        "fileID": 2714302,
-        "name": "journeymap"
+        "projectID": 228816,
+        "fileID": 2699056,
+        "name": "openblocks"
     },
     {
         "projectID": 238403,
@@ -302,26 +47,124 @@
         "name": "better-builders-wands"
     },
     {
-        "projectID": 240959,
-        "fileID": 2630081,
-        "name": "extra-bit-manipulation",
-        "required": true
+        "projectID": 64578,
+        "fileID": 2708308,
+        "name": "ender-io"
     },
     {
-        "projectID": 314904,
-        "fileID": 2716458,
-        "name": "ftb-utilities-backups"
+        "projectID": 224190,
+        "fileID": 2599318,
+        "name": "funky-locomotion"
     },
     {
-        "projectID": 269024,
-        "fileID": 2716534,
-        "name": "the-lost-cities"
+        "projectID": 254241,
+        "fileID": 2656683,
+        "name": "mob-grinding-utils"
     },
     {
-        "projectID": 239431,
-        "fileID": 2615930,
-        "name": "mcmultipart",
-        "required": true
+        "projectID": 306935,
+        "fileID": 2727080,
+        "name": "super-factory-manager"
+    },
+    {
+        "projectID": 230976,
+        "fileID": 2463272,
+        "name": "fast-leaf-decay"
+    },
+    {
+        "projectID": 231095,
+        "fileID": 2720655,
+        "name": "chisels-bits"
+    },
+    {
+        "projectID": 289532,
+        "fileID": 2691540,
+        "name": "valkyriecompat"
+    },
+    {
+        "projectID": 240950,
+        "fileID": 2707390,
+        "name": "rftools-dimensions"
+    },
+    {
+        "projectID": 227083,
+        "fileID": 2518667,
+        "name": "baubles"
+    },
+    {
+        "projectID": 238222,
+        "fileID": 2728940,
+        "name": "jei"
+    },
+    {
+        "projectID": 245174,
+        "fileID": 2594243,
+        "name": "ender-storage-1-8"
+    },
+    {
+        "projectID": 239286,
+        "fileID": 2728480,
+        "name": "cyclic"
+    },
+    {
+        "projectID": 246795,
+        "fileID": 2563103,
+        "name": "viescraft-airships"
+    },
+    {
+        "projectID": 287357,
+        "fileID": 2710166,
+        "name": "integrated-crafting"
+    },
+    {
+        "projectID": 250763,
+        "fileID": 2705813,
+        "name": "rftools-control"
+    },
+    {
+        "projectID": 251786,
+        "fileID": 2545468,
+        "name": "more-chickens"
+    },
+    {
+        "projectID": 241319,
+        "fileID": 2671774,
+        "name": "reliquary-v1-3"
+    },
+    {
+        "projectID": 231484,
+        "fileID": 2696150,
+        "name": "cooking-for-blockheads"
+    },
+    {
+        "projectID": 297720,
+        "fileID": 2708711,
+        "name": "deep-mob-learning-blood-magic-addon"
+    },
+    {
+        "projectID": 241941,
+        "fileID": 2545467,
+        "name": "chickens"
+    },
+    {
+        "projectID": 253211,
+        "fileID": 2684561,
+        "name": "mtlib"
+    },
+    {
+        "projectID": 243478,
+        "fileID": 2589773,
+        "name": "more-overlays"
+    },
+    {
+        "projectID": 271384,
+        "fileID": 2715784,
+        "name": "cofh-world"
+    },
+    {
+        "projectID": 244258,
+        "fileID": 2652588,
+        "name": "unidict"
     },
     {
         "projectID": 260327,
@@ -329,15 +172,179 @@
         "name": "plustic"
     },
     {
-        "projectID": 313970,
-        "fileID": 2716536,
-        "name": "apotheosis"
+        "projectID": 224599,
+        "fileID": 2699673,
+        "name": "mystcraft"
     },
     {
-        "projectID": 248453,
-        "fileID": 2727070,
-        "name": "shadowfacts-forgelin",
-        "required": true
+        "projectID": 229084,
+        "fileID": 2684033,
+        "name": "portal-gun"
+    },
+    {
+        "projectID": 245480,
+        "fileID": 2691542,
+        "name": "valkyrielib"
+    },
+    {
+        "projectID": 250398,
+        "fileID": 2522248,
+        "name": "controlling"
+    },
+    {
+        "projectID": 293968,
+        "fileID": 2720723,
+        "name": "compactdrawers"
+    },
+    {
+        "projectID": 284229,
+        "fileID": 2718649,
+        "name": "deep-mob-learning"
+    },
+    {
+        "projectID": 265917,
+        "fileID": 2491927,
+        "name": "jei-integration"
+    },
+    {
+        "projectID": 251389,
+        "fileID": 2718592,
+        "name": "integrated-tunnels"
+    },
+    {
+        "projectID": 229218,
+        "fileID": 2653854,
+        "name": "extracells2"
+    },
+    {
+        "projectID": 230111,
+        "fileID": 2572424,
+        "name": "project-red-fabrication"
+    },
+    {
+        "projectID": 295910,
+        "fileID": 2714100,
+        "name": "integrated-terminals"
+    },
+    {
+        "projectID": 229002,
+        "fileID": 2572409,
+        "name": "mrtjpcore"
+    },
+    {
+        "projectID": 225606,
+        "fileID": 2489553,
+        "name": "stackie"
+    },
+    {
+        "projectID": 245211,
+        "fileID": 2667280,
+        "name": "the-one-probe"
+    },
+    {
+        "projectID": 228702,
+        "fileID": 2572423,
+        "name": "project-red-base"
+    },
+    {
+        "projectID": 277711,
+        "fileID": 2702080,
+        "name": "roost"
+    },
+    {
+        "projectID": 246010,
+        "fileID": 2694397,
+        "name": "simple-generators"
+    },
+    {
+        "projectID": 60089,
+        "fileID": 2671937,
+        "name": "mouse-tweaks"
+    },
+    {
+        "projectID": 250577,
+        "fileID": 2648656,
+        "name": "akashic-tome"
+    },
+    {
+        "projectID": 32274,
+        "fileID": 2714302,
+        "name": "journeymap"
+    },
+    {
+        "projectID": 260824,
+        "fileID": 2622045,
+        "name": "wireless-redstone-cbe"
+    },
+    {
+        "projectID": 223794,
+        "fileID": 2652453,
+        "name": "applied-energistics-2"
+    },
+    {
+        "projectID": 247111,
+        "fileID": 2698796,
+        "name": "top-addons"
+    },
+    {
+        "projectID": 223622,
+        "fileID": 2516219,
+        "name": "advanced-generators"
+    },
+    {
+        "projectID": 59816,
+        "fileID": 2697894,
+        "name": "random-things"
+    },
+    {
+        "projectID": 254652,
+        "fileID": 2591087,
+        "name": "fence-jumper"
+    },
+    {
+        "projectID": 229048,
+        "fileID": 2572422,
+        "name": "project-red-mechanical"
+    },
+    {
+        "projectID": 245480,
+        "fileID": 2691542,
+        "name": "valkyrielib"
+    },
+    {
+        "projectID": 306122,
+        "fileID": 2712469,
+        "name": "wireless-utilities"
+    },
+    {
+        "projectID": 220954,
+        "fileID": 2693544,
+        "name": "modtweaker"
+    },
+    {
+        "projectID": 267602,
+        "fileID": 2642375,
+        "name": "ctm"
+    },
+    {
+        "projectID": 223852,
+        "fileID": 2642386,
+        "name": "storage-drawers"
+    },
+    {
+        "projectID": 247921,
+        "fileID": 2670570,
+        "name": "zerocore"
+    },
+    {
+        "projectID": 223008,
+        "fileID": 2670112,
+        "name": "opencomputers"
+    },
+    {
+        "projectID": 291493,
+        "fileID": 2718784,
+        "name": "portality"
     },
     {
         "projectID": 229045,
@@ -345,10 +352,44 @@
         "name": "project-red-integration"
     },
     {
-        "projectID": 228815,
-        "fileID": 2699055,
-        "name": "openmodslib",
-        "required": true
+        "projectID": 225643,
+        "fileID": 2698039,
+        "name": "botania"
+    },
+    {
+        "projectID": 224791,
+        "fileID": 2713291,
+        "name": "blood-magic"
+    },
+    {
+        "projectID": 230495,
+        "fileID": 2485041,
+        "name": "movingworld"
+    },
+    {
+        "projectID": 247007,
+        "fileID": 2716477,
+        "name": "common-capabilities"
+    },
+    {
+        "projectID": 266479,
+        "fileID": 2689266,
+        "name": "capabilityproxy"
+    },
+    {
+        "projectID": 229060,
+        "fileID": 2684000,
+        "name": "ichunutil"
+    },
+    {
+        "projectID": 283644,
+        "fileID": 2694382,
+        "name": "placebo"
+    },
+    {
+        "projectID": 70496,
+        "fileID": 2518031,
+        "name": "bdlib"
     },
     {
         "projectID": 250363,
@@ -356,16 +397,79 @@
         "name": "autoreglib"
     },
     {
-        "projectID": 224190,
-        "fileID": 2599318,
-        "name": "funky-locomotion",
-        "required": true
+        "projectID": 248020,
+        "fileID": 2645165,
+        "name": "flux-networks"
     },
     {
-        "projectID": 224791,
-        "fileID": 2713291,
-        "name": "blood-magic",
-        "required": true
+        "projectID": 74924,
+        "fileID": 2713386,
+        "name": "mantle"
+    },
+    {
+        "projectID": 228832,
+        "fileID": 2645992,
+        "name": "guide-api"
+    },
+    {
+        "projectID": 253619,
+        "fileID": 2721707,
+        "name": "real-filing-cabinet"
+    },
+    {
+        "projectID": 229876,
+        "fileID": 2483393,
+        "name": "betterfps"
+    },
+    {
+        "projectID": 225561,
+        "fileID": 2678374,
+        "name": "extra-utilities"
+    },
+    {
+        "projectID": 231868,
+        "fileID": 2699428,
+        "name": "endercore"
+    },
+    {
+        "projectID": 291737,
+        "fileID": 2715787,
+        "name": "thermal-innovation"
+    },
+    {
+        "projectID": 233071,
+        "fileID": 2562139,
+        "name": "crafting-tweaks"
+    },
+    {
+        "projectID": 313298,
+        "fileID": 2713640,
+        "name": "thermallogistics"
+    },
+    {
+        "projectID": 228815,
+        "fileID": 2699055,
+        "name": "openmodslib"
+    },
+    {
+        "projectID": 292785,
+        "fileID": 2639533,
+        "name": "vanillafix"
+    },
+    {
+        "projectID": 271835,
+        "fileID": 2715791,
+        "name": "thermal-cultivation"
+    },
+    {
+        "projectID": 277938,
+        "fileID": 2676458,
+        "name": "integration-foregoing"
+    },
+    {
+        "projectID": 69163,
+        "fileID": 2715789,
+        "name": "thermal-expansion"
     },
     {
         "projectID": 243121,
@@ -373,10 +477,259 @@
         "name": "quark"
     },
     {
-        "projectID": 238372,
-        "fileID": 2595310,
-        "name": "neat",
-        "required": true
+        "projectID": 281657,
+        "fileID": 2575182,
+        "name": "capability-adapter"
+    },
+    {
+        "projectID": 223094,
+        "fileID": 2670367,
+        "name": "inventory-tweaks"
+    },
+    {
+        "projectID": 280510,
+        "fileID": 2643906,
+        "name": "attributefix"
+    },
+    {
+        "projectID": 225605,
+        "fileID": 2489549,
+        "name": "lunatriuscore"
+    },
+    {
+        "projectID": 231382,
+        "fileID": 2710581,
+        "name": "brandons-core"
+    },
+    {
+        "projectID": 227443,
+        "fileID": 2716138,
+        "name": "thermal-dynamics"
+    },
+    {
+        "projectID": 239431,
+        "fileID": 2615930,
+        "name": "mcmultipart"
+    },
+    {
+        "projectID": 228525,
+        "fileID": 2727800,
+        "name": "bookshelf"
+    },
+    {
+        "projectID": 239418,
+        "fileID": 2645156,
+        "name": "sonar-core"
+    },
+    {
+        "projectID": 236307,
+        "fileID": 2718584,
+        "name": "integrated-dynamics"
+    },
+    {
+        "projectID": 270789,
+        "fileID": 2623090,
+        "name": "redstone-flux"
+    },
+    {
+        "projectID": 237102,
+        "fileID": 2730058,
+        "name": "ftb-utilities"
+    },
+    {
+        "projectID": 227049,
+        "fileID": 2564573,
+        "name": "iron-backpacks"
+    },
+    {
+        "projectID": 224320,
+        "fileID": 2634473,
+        "name": "ender-utilities"
+    },
+    {
+        "projectID": 232131,
+        "fileID": 2624732,
+        "name": "default-options"
+    },
+    {
+        "projectID": 250957,
+        "fileID": 2630860,
+        "name": "tinkers-tool-leveling"
+    },
+    {
+        "projectID": 266515,
+        "fileID": 2699878,
+        "name": "industrial-foregoing"
+    },
+    {
+        "projectID": 268566,
+        "fileID": 2724545,
+        "name": "mekanism-generators"
+    },
+    {
+        "projectID": 222880,
+        "fileID": 2715788,
+        "name": "thermal-foundation"
+    },
+    {
+        "projectID": 51195,
+        "fileID": 2687757,
+        "name": "railcraft"
+    },
+    {
+        "projectID": 284007,
+        "fileID": 2687380,
+        "name": "inspirations"
+    },
+    {
+        "projectID": 229046,
+        "fileID": 2572426,
+        "name": "project-red-lighting"
+    },
+    {
+        "projectID": 245453,
+        "fileID": 2691536,
+        "name": "environmental-tech"
+    },
+    {
+        "projectID": 253043,
+        "fileID": 2651482,
+        "name": "wanionlib"
+    },
+    {
+        "projectID": 230497,
+        "fileID": 2450900,
+        "name": "chameleon"
+    },
+    {
+        "projectID": 298187,
+        "fileID": 2691133,
+        "name": "building-gadgets"
+    },
+    {
+        "projectID": 233105,
+        "fileID": 2714365,
+        "name": "mcjtylib"
+    },
+    {
+        "projectID": 232758,
+        "fileID": 2714091,
+        "name": "cyclops-core"
+    },
+    {
+        "projectID": 268567,
+        "fileID": 2724546,
+        "name": "mekanism-tools"
+    },
+    {
+        "projectID": 228029,
+        "fileID": 2499846,
+        "name": "davincis-vessels"
+    },
+    {
+        "projectID": 278993,
+        "fileID": 2719654,
+        "name": "bonsai-trees"
+    },
+    {
+        "projectID": 228756,
+        "fileID": 2723143,
+        "name": "iron-chests"
+    },
+    {
+        "projectID": 248453,
+        "fileID": 2727070,
+        "name": "shadowfacts-forgelin"
+    },
+    {
+        "projectID": 229049,
+        "fileID": 2572421,
+        "name": "project-red-world"
+    },
+    {
+        "projectID": 260912,
+        "fileID": 2705817,
+        "name": "xnet"
+    },
+    {
+        "projectID": 240959,
+        "fileID": 2630081,
+        "name": "extra-bit-manipulation"
+    },
+    {
+        "projectID": 237167,
+        "fileID": 2730032,
+        "name": "ftblib"
+    },
+    {
+        "projectID": 235279,
+        "fileID": 2619468,
+        "name": "chisel"
+    },
+    {
+        "projectID": 242195,
+        "fileID": 2723622,
+        "name": "dark-utilities"
+    },
+    {
+        "projectID": 224218,
+        "fileID": 2707509,
+        "name": "compact-machines"
+    },
+    {
+        "projectID": 221857,
+        "fileID": 2717443,
+        "name": "pams-harvestcraft"
+    },
+    {
+        "projectID": 223565,
+        "fileID": 2710583,
+        "name": "draconic-evolution"
+    },
+    {
+        "projectID": 224641,
+        "fileID": 2707388,
+        "name": "rftools"
+    },
+    {
+        "projectID": 74072,
+        "fileID": 2693496,
+        "name": "tinkers-construct"
+    },
+    {
+        "projectID": 254602,
+        "fileID": 2580052,
+        "name": "tesla-core-lib"
+    },
+    {
+        "projectID": 314904,
+        "fileID": 2716458,
+        "name": "ftb-utilities-backups"
+    },
+    {
+        "projectID": 242818,
+        "fileID": 2618630,
+        "name": "codechicken-lib-1-8"
+    },
+    {
+        "projectID": 313970,
+        "fileID": 2716536,
+        "name": "apotheosis"
+    },
+    {
+        "projectID": 69162,
+        "fileID": 2716100,
+        "name": "cofh-core"
+    },
+    {
+        "projectID": 228027,
+        "fileID": 2574880,
+        "name": "bibliocraft"
+    },
+    {
+        "projectID": 269024,
+        "fileID": 2716534,
+        "name": "the-lost-cities"
     },
     {
         "projectID": 228404,
@@ -389,26 +742,29 @@
         "name": "project-red-compat"
     },
     {
-        "projectID": 298187,
-        "fileID": 2691133,
-        "name": "building-gadgets"
+        "projectID": 268560,
+        "fileID": 2724543,
+        "name": "mekanism"
     },
     {
-        "projectID": 223794,
-        "fileID": 2652453,
-        "name": "applied-energistics-2"
+        "projectID": 272671,
+        "fileID": 2727094,
+        "name": "tinkers-complement"
     },
     {
-        "projectID": 297720,
-        "fileID": 2708711,
-        "name": "deep-mob-learning-blood-magic-addon",
-        "required": true
+        "projectID": 238372,
+        "fileID": 2595310,
+        "name": "neat"
     },
     {
-        "projectID": 265917,
-        "fileID": 2491927,
-        "name": "jei-integration",
-        "required": true
+        "projectID": 225104,
+        "fileID": 2643351,
+        "name": "calculator"
+    },
+    {
+        "projectID": 246974,
+        "fileID": 2659598,
+        "name": "solar-flux-reborn"
     },
     {
         "projectID": 306770,
@@ -416,61 +772,9 @@
         "name": "patchouli"
     },
     {
-        "projectID": 224320,
-        "fileID": 2634473,
-        "name": "ender-utilities"
-    },
-    {
-        "projectID": 51195,
-        "fileID": 2687757,
-        "name": "railcraft",
-        "required": true
-    },
-    {
-        "projectID": 228832,
-        "fileID": 2645992,
-        "name": "guide-api",
-        "required": true
-    },
-    {
-        "projectID": 246010,
-        "fileID": 2694397,
-        "name": "simple-generators",
-        "required": true
-    },
-    {
-        "projectID": 229002,
-        "fileID": 2572409,
-        "name": "mrtjpcore"
-    },
-    {
-        "projectID": 232131,
-        "fileID": 2624732,
-        "name": "default-options",
-        "required": true
-    },
-    {
-        "projectID": 224218,
-        "fileID": 2707509,
-        "name": "compact-machines",
-        "required": true
-    },
-    {
-        "projectID": 69163,
-        "fileID": 2715789,
-        "name": "thermal-expansion",
-        "required": true
-    },
-    {
-        "projectID": 278494,
-        "fileID": 2695388,
-        "name": "foamfix-for-minecraft",
-        "required": true
-    },
-    {
-        "projectID": 229048,
-        "fileID": 2572422,
-        "name": "project-red-mechanical"
+        "projectID": 235595,
+        "fileID": 2705633,
+        "name": "not-enough-wands"
     },
     {
         "projectID": 229208,
@@ -478,313 +782,9 @@
         "name": "cd4017be-library"
     },
     {
-        "projectID": 245287,
-        "fileID": 2658176,
-        "name": "morph-o-tool",
-        "required": true
-    },
-    {
-        "projectID": 227443,
-        "fileID": 2716138,
-        "name": "thermal-dynamics",
-        "required": true
-    },
-    {
-        "projectID": 242818,
-        "fileID": 2618630,
-        "name": "codechicken-lib-1-8"
-    },
-    {
-        "projectID": 250398,
-        "fileID": 2522248,
-        "name": "controlling"
-    },
-    {
-        "projectID": 283644,
-        "fileID": 2694382,
-        "name": "placebo",
-        "required": true
-    },
-    {
-        "projectID": 228029,
-        "fileID": 2499846,
-        "name": "davincis-vessels",
-        "required": true
-    },
-    {
-        "projectID": 248020,
-        "fileID": 2645165,
-        "name": "flux-networks",
-        "required": true
-    },
-    {
-        "projectID": 245480,
-        "fileID": 2691542,
-        "name": "valkyrielib",
-        "required": true
-    },
-    {
-        "projectID": 239286,
-        "fileID": 2728480,
-        "name": "cyclic"
-    },
-    {
-        "projectID": 231484,
-        "fileID": 2696150,
-        "name": "cooking-for-blockheads"
-    },
-    {
-        "projectID": 230495,
-        "fileID": 2485041,
-        "name": "movingworld",
-        "required": true
-    },
-    {
-        "projectID": 271835,
-        "fileID": 2715791,
-        "name": "thermal-cultivation",
-        "required": true
-    },
-    {
-        "projectID": 231095,
-        "fileID": 2720655,
-        "name": "chisels-bits",
-        "required": true
-    },
-    {
-        "projectID": 224599,
-        "fileID": 2699673,
-        "name": "mystcraft"
-    },
-    {
-        "projectID": 227083,
-        "fileID": 2518667,
-        "name": "baubles",
-        "required": true
-    },
-    {
-        "projectID": 277711,
-        "fileID": 2702080,
-        "name": "roost",
-        "required": true
-    },
-    {
-        "projectID": 280510,
-        "fileID": 2643906,
-        "name": "attributefix"
-    },
-    {
-        "projectID": 241319,
-        "fileID": 2671774,
-        "name": "reliquary-v1-3"
-    },
-    {
-        "projectID": 277938,
-        "fileID": 2676458,
-        "name": "integration-foregoing",
-        "required": true
-    },
-    {
-        "projectID": 231868,
-        "fileID": 2699428,
-        "name": "endercore"
-    },
-    {
-        "projectID": 228756,
-        "fileID": 2723143,
-        "name": "iron-chests"
-    },
-    {
-        "projectID": 228702,
-        "fileID": 2572423,
-        "name": "project-red-base"
-    },
-    {
-        "projectID": 247921,
-        "fileID": 2670570,
-        "name": "zerocore",
-        "required": true
-    },
-    {
         "projectID": 227639,
         "fileID": 2686476,
         "name": "the-twilight-forest"
-    },
-    {
-        "projectID": 290209,
-        "fileID": 2704404,
-        "name": "rftools-power",
-        "required": true
-    },
-    {
-        "projectID": 233105,
-        "fileID": 2714365,
-        "name": "mcjtylib"
-    },
-    {
-        "projectID": 287357,
-        "fileID": 2710166,
-        "name": "integrated-crafting"
-    },
-    {
-        "projectID": 225606,
-        "fileID": 2489553,
-        "name": "stackie",
-        "required": true
-    },
-    {
-        "projectID": 250763,
-        "fileID": 2705813,
-        "name": "rftools-control",
-        "required": true
-    },
-    {
-        "projectID": 230111,
-        "fileID": 2572424,
-        "name": "project-red-fabrication"
-    },
-    {
-        "projectID": 224641,
-        "fileID": 2707388,
-        "name": "rftools"
-    },
-    {
-        "projectID": 230497,
-        "fileID": 2450900,
-        "name": "chameleon",
-        "required": true
-    },
-    {
-        "projectID": 239418,
-        "fileID": 2645156,
-        "name": "sonar-core",
-        "required": true
-    },
-    {
-        "projectID": 223852,
-        "fileID": 2642386,
-        "name": "storage-drawers",
-        "required": true
-    },
-    {
-        "projectID": 69162,
-        "fileID": 2716100,
-        "name": "cofh-core",
-        "required": true
-    },
-    {
-        "projectID": 246795,
-        "fileID": 2563103,
-        "name": "viescraft-airships",
-        "required": true
-    },
-    {
-        "projectID": 284229,
-        "fileID": 2718649,
-        "name": "deep-mob-learning",
-        "required": true
-    },
-    {
-        "projectID": 281657,
-        "fileID": 2575182,
-        "name": "capability-adapter",
-        "required": true
-    },
-    {
-        "projectID": 254652,
-        "fileID": 2591087,
-        "name": "fence-jumper",
-        "required": true
-    },
-    {
-        "projectID": 229084,
-        "fileID": 2684033,
-        "name": "portal-gun",
-        "required": true
-    },
-    {
-        "projectID": 223622,
-        "fileID": 2516219,
-        "name": "advanced-generators",
-        "required": true
-    },
-    {
-        "projectID": 254602,
-        "fileID": 2580052,
-        "name": "tesla-core-lib",
-        "required": true
-    },
-    {
-        "projectID": 266515,
-        "fileID": 2699878,
-        "name": "industrial-foregoing"
-    },
-    {
-        "projectID": 293968,
-        "fileID": 2720723,
-        "name": "compactdrawers",
-        "required": true
-    },
-    {
-        "projectID": 225104,
-        "fileID": 2643351,
-        "name": "calculator",
-        "required": true
-    },
-    {
-        "projectID": 240950,
-        "fileID": 2707390,
-        "name": "rftools-dimensions",
-        "required": true
-    },
-    {
-        "projectID": 285385,
-        "fileID": 2634368,
-        "name": "oc-xnet-driver",
-        "required": true
-    },
-    {
-        "projectID": 243478,
-        "fileID": 2589773,
-        "name": "more-overlays"
-    },
-    {
-        "projectID": 237102,
-        "fileID": 2730058,
-        "name": "ftb-utilities"
-    },
-    {
-        "projectID": 74072,
-        "fileID": 2693496,
-        "name": "tinkers-construct"
-    },
-    {
-        "projectID": 235279,
-        "fileID": 2619468,
-        "name": "chisel",
-        "required": true
-    },
-    {
-        "projectID": 231382,
-        "fileID": 2710581,
-        "name": "brandons-core"
-    },
-    {
-        "projectID": 229060,
-        "fileID": 2684000,
-        "name": "ichunutil",
-        "required": true
-    },
-    {
-        "projectID": 232758,
-        "fileID": 2714091,
-        "name": "cyclops-core"
-    },
-    {
-        "projectID": 250577,
-        "fileID": 2648656,
-        "name": "akashic-tome",
-        "required": true
     }
 ]
 }

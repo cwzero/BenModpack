@@ -1716,5 +1716,21 @@
     "spawn_type": "Chicken spawn type, can be: NORMAL,SNOW,NONE,HELL",
     "parent_1": "First parent, empty if it cant be breed. modid:chickenid #example: chickens:waterchicken",
     "parent_2": "Second parent, empty if it cant be breed. "
+  },
+  "morechickens:osmiumchicken": {
+    "name": "osmiumChicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "mekanism:ingot",
+      "metaID": 1
+    },
+    "drop_item": {
+      "itemID": "mekanism:ingot",
+      "metaID": 1
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:ironchicken",
+    "parent_2": "chickens:quartzchicken"
   }
 }
