@@ -1,0 +1,79 @@
+image: gradle:alpine
+
+variables:
+  GRADLE_OPTS: "-Dorg.gradle.daemon=false"
+
+stages:
+  - test
+  - snapshot
+  - build
+  - deploy
+
+before_script:
+  - export GRADLE_USER_HOME=`pwd`/.gradle
+
+cache:
+  paths:
+    - .gradle/wrapper
+    - .gradle/caches
+
+build:
+  stage: build
+  script:
+    - gradle --build-cache assembleDist assembleServerDist
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: push
+    paths:
+      - build
+      - .gradle
+  artifacts:
+    paths:
+      - build/distributions/*.zip
+      - build/distributions/*.tar
+      - build/distributions/*.tgz
+    expire_in: 1 week
+  only:
+    - master
+
+snapshot:
+  stage: snapshot
+  script:
+    - gradle --build-cache assembleProjectDist
+  artifacts:
+    paths:
+      - build/distributions/*.zip
+      - build/distributions/*.tar
+      - build/distributions/*.tgz
+    expire_in: 1 week
+
+deploy_dev:
+  stage: deploy
+  script:
+    - gradle --build-cache deployDev
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: push
+    paths:
+      - build
+      - .gradle
+  only:
+    - develop
+
+deploy_prod:
+  stage: deploy
+  script:
+    - gradle --build-cache deployProd
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: push
+    paths:
+      - build
+      - .gradle
+  only:
+    - master
+
+test:
+  stage: test
+  script:
+    - gradle --build-cache check
