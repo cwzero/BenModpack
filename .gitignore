@@ -12,8 +12,9 @@ build
 .settings/
 
 /manifest.json
-mods/
+src/mods/
 server/
+src/resourcepacks/
 
 src/saves/
 src/config/forge.cfg
