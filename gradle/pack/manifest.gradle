@@ -31,6 +31,8 @@ task generateTwitchManifest {
       }
     ]
   },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
   "name": "${project.name}",
   "version": "${project.version}",
   "author": "${project.author}",

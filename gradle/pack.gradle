@@ -14,11 +14,11 @@ ext {
     installDir = "${buildDir}/install/${project.name}-server"
     forgeDir = "${buildDir}/forge"
     
-    minMemory = 4096
-    maxMemory = 8192
+    minMemory = 2048
+    maxMemory = 4096
 }
 
-version = "0.0.1-SNAPSHOT"
+version = "0.0.2"
 
 apply from: "${gradleDir}/download.gradle"
 
